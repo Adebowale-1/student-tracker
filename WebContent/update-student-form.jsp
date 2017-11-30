@@ -12,7 +12,7 @@
 	
 		<div id="header">
 	
-			<h2>Olabisi Onabanjo University</h2>
+			<h2>Olabisi Onabanjo University, Ago-Iwoye</h2>
 		
 		</div>
 	

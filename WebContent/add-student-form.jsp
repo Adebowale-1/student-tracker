@@ -11,7 +11,7 @@
 	<div id="wrapper">
 	
 		<div id="header">
-			<h2>Olabisi Onabanjo University</h2>
+			<h2>Olabisi Onabanjo University.</h2>
 		
 		</div>
 	
